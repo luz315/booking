@@ -1,0 +1,4 @@
+rootProject.name = 'booking'
+include 'booking-core'
+include 'booking-rest'
+include 'booking-infra'
